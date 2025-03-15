@@ -6,7 +6,7 @@
         <title>PWL 2025</title>
     </head>
     <body>
-        <h2>Pemrograman Web Lanjut 2025 TI 23A2</h2>
+        <h2>Pemrograman Web Lanjut 2025</h2>
         <h3>Muhammad Fathurrosyid</h3>
     </body>
 </html>
